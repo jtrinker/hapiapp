@@ -1,0 +1,14 @@
+{
+  "name": "hapiApp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jamie Trinker",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^6.4.0"
+  }
+}
